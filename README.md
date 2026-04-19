@@ -11,7 +11,7 @@
 ## 🚀 Installation & Setup
 
 ### 🐧 Linux & 🍎 macOS (Recommended)
-The fastest way to install NetDrain is via the **Cloud One-Liner**.
+The fastest way to install NetDrain is via the **Cloud One-Liner**. This script automatically detects **pipx** for a professional installation or falls back to a standalone environment.
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/abubakerx1da49/netdrain/main/install.sh | bash
