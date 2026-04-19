@@ -11,17 +11,17 @@
 ## 🚀 Installation & Setup
 
 ### 🐧 Linux & 🍎 macOS (Recommended)
-The fastest way to install NetDrain is via the **Cloud One-Liner**. This handles the environment setup and system linking automatically.
+The fastest way to install NetDrain is via the **Cloud One-Liner**.
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/abubaker-siddique/netdrain/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/abubakerx1da49/netdrain/main/install.sh | bash
 ```
 
 ### 🪟 Windows
-1.  **Install Python**: Ensure [Python 3.8+](https://www.python.org/downloads/) is installed and added to your PATH.
+1.  **Install Python**: Ensure [Python 3.8+](https://www.python.org/downloads/) is installed.
 2.  **Clone the Repo**:
     ```powershell
-    git clone https://github.com/abubaker-siddique/netdrain.git
+    git clone https://github.com/abubakerx1da49/netdrain.git
     cd netdrain
     ```
 3.  **Setup Environment**:
