@@ -6,6 +6,7 @@
 ![Build](https://img.shields.io/badge/build-native-58a6ff?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=flat-square)
 
+![Sample](example.png)
 ---
 
 ## 🚀 Installation & Setup
